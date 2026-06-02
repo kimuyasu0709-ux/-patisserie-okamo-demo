@@ -15,7 +15,7 @@ const menuItems = [
   },
   {
     id: 2,
-    name: "商品名",
+    name: "イチゴのタルト",
     nameEn: "Tarte aux Fruits",
     price: "¥680",
     description: "季節のフルーツを贅沢に使用したタルト",
@@ -33,7 +33,7 @@ const menuItems = [
   },
   {
     id: 4,
-    name: "商品名",
+    name: "チョコバナナショートケーキ",
     nameEn: "Opera",
     price: "¥580",
     description: "コーヒーとチョコレートの大人の味わい",
@@ -42,7 +42,7 @@ const menuItems = [
   },
   {
     id: 5,
-    name: "商品名",
+    name: "バースデーケーキ",
     nameEn: "Mille-feuille",
     price: "¥550",
     description: "層になったパイ生地とカスタードの調和",
@@ -51,7 +51,7 @@ const menuItems = [
   },
   {
     id: 6,
-    name: "商品名",
+    name: "抹茶と和のクッキー缶",
     nameEn: "Eclair Matcha",
     price: "¥480",
     description: "加賀棒茶クリームと宇治抹茶の融合",

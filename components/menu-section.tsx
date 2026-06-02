@@ -176,9 +176,6 @@ export function MenuSection() {
                         {item.nameEn}
                       </span>
                     </div>
-                    <span className="font-serif text-lg text-primary font-semibold">
-                      {item.price}
-                    </span>
                   </div>
                   
                   <p className="font-sans text-sm text-muted-foreground leading-relaxed">

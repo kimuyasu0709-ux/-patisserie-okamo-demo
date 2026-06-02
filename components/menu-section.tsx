@@ -172,9 +172,6 @@ export function MenuSection() {
                       <h3 className="font-serif text-xl text-card-foreground font-semibold">
                         {item.name}
                       </h3>
-                      <span className="font-serif text-sm text-muted-foreground italic">
-                        {item.nameEn}
-                      </span>
                     </div>
                   </div>
                   

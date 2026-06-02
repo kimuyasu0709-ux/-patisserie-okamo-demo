@@ -6,7 +6,7 @@ import Image from "next/image"
 const menuItems = [
   {
     id: 1,
-    name: "商品名",
+    name: "ジャルダン",
     nameEn: "Choux Cream",
     price: "¥420",
     description: "サクサクのシュー生地と濃厚カスタード",
@@ -24,7 +24,7 @@ const menuItems = [
   },
   {
     id: 3,
-    name: "商品名",
+    name: "モンブラン",
     nameEn: "Mont Blanc",
     price: "¥620",
     description: "能登栗を使用した風味豊かな一品",
